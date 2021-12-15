@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pirate Chicks Vintage, an ecommerce website for the vintage business I own and run with my mom](https://github.com/kristenkrofchik/react-cart-pirate-chicks)
 
-- 🌱 I’m currently learning **JavaScript, React, Node.js, Python**
+- 🌱 I’m currently coding with **JavaScript, React, Node.js, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kristenkrofchik](https://github.com/kristenkrofchik)
 
