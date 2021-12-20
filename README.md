@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristen Krofchik</h1>
-<h3 align="center">A Full Stack Developer in IL, USA</h3>
+<h3 align="center">A Full Stack Software Developer in IL, USA</h3>
 
 - 🔭 I’m currently working on [Pirate Chicks Vintage, an ecommerce website for the vintage business I own and run with my mom](https://github.com/kristenkrofchik/react-cart-pirate-chicks)
 
