@@ -9,7 +9,7 @@
 
 - 📄 Check out my [resume](https://drive.google.com/file/d/14dUMeq_Plxy92kjwBoO_0dmw7IQJuv92/view?usp=sharing)
 
-- 📫 How to reach me **k.krofchik@gmail.com**
+- 📫 Reach me at **k.krofchik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
