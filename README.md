@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kristen Krofchik</h1>
 <h3 align="center">A Full Stack Software Developer in IL, USA</h3>
 
-- 🔭 I’m currently working on [Pirate Chicks Vintage, an ecommerce website for the vintage business I own and run with my mom](https://github.com/kristenkrofchik/react-cart-pirate-chicks)
+- 🔭 I’m currently working on [my portfolio page](https://github.com/kristenkrofchik/portfolio)
 
-- 🌱 I’m currently coding with **JavaScript, React, Node.js, Python**
+- 🌱 I’m currently coding with **React, Node.js, JavaScript, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kristenkrofchik](https://github.com/kristenkrofchik)
+- 👨‍💻 All of my projects are available at [here on GitHub](https://github.com/kristenkrofchik)
+
+- 📄 Check out my [resume](https://drive.google.com/file/d/14dUMeq_Plxy92kjwBoO_0dmw7IQJuv92/view?usp=sharing)
 
 - 📫 How to reach me **k.krofchik@gmail.com**
 
