@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently coding with **React, Node.js, JavaScript, Python**
 
-- 👨‍💻 All of my projects are available at [here on GitHub](https://github.com/kristenkrofchik)
+- 👨‍💻 All of my projects are available [here on GitHub](https://github.com/kristenkrofchik)
 
 - 📄 Check out my [resume](https://drive.google.com/file/d/14dUMeq_Plxy92kjwBoO_0dmw7IQJuv92/view?usp=sharing)
 
