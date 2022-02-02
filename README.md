@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kristen Krofchik</h1>
 <h3 align="center">A Full Stack Software Developer in IL, USA</h3>
 
-- 🔭 I’m currently working on [my first Typescript project](https://github.com/kristenkrofchik/react-typescript-todos)
+- 🔭 I’m currently working on [my first TypeScript project](https://github.com/kristenkrofchik/react-typescript-todos)
 
-- 🌱 I’m currently coding with **React, Node.js, JavaScript, Python**
+- 🌱 I’m currently coding with **React, Node.js, TypeScript**
 
 - 👨‍💻 All of my projects are available [here on GitHub](https://github.com/kristenkrofchik)
 
