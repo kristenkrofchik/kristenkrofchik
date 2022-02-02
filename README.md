@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristen Krofchik</h1>
 <h3 align="center">A Full Stack Software Developer in IL, USA</h3>
 
-- 🔭 I’m currently working on [my portfolio page](https://github.com/kristenkrofchik/portfolio)
+- 🔭 I’m currently working on [my first Typescript project](https://github.com/kristenkrofchik/react-typescript-todos)
 
 - 🌱 I’m currently coding with **React, Node.js, JavaScript, Python**
 
